@@ -1,0 +1,15 @@
+{
+    "nodes": [
+      {"id": 1, "pos": [1, 2]},
+      {"id": 2, "pos": [2, 1]},
+      {"id": 3, "pos": [2, 3]},
+      {"id": 4, "pos": [3, 2]}
+    ],
+    "links": [
+        {"source": 1, "target": 2, "distance": 1},
+        {"source": 1, "target": 3, "distance": 8},
+        {"source": 2, "target": 3, "distance": 10},
+        {"source": 2, "target": 4, "distance": 6},
+        {"source": 3, "target": 4, "distance": 1}
+    ]
+}
