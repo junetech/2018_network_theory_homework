@@ -1,5 +1,7 @@
 # Python Guide for Complete Beginners
 
+4th. Oct. 2018 for IMEN561 Network Theory by JuneTech
+
 ## Python & IDE
 
 - Windows:  [Python](https://www.python.org/downloads/) or [miniconda](https://conda.io/miniconda.html), [VSCode](https://code.visualstudio.com/)
@@ -29,3 +31,21 @@
 
 - TA will help you beginning(Troubleshooting in IDE setup, etc.)
 - A lot!
+
+## Scoring policy
+
+- Correctness
+  - If right: 100%
+  - If wrong: partial scoring absolutely below 100%
+- Running time
+- Readability
+
+## Do-s and don't-s
+
+- Don't
+  - Use korean. Never use korean. NEVER USE KOREAN
+  - do what violates honor code
+- Do
+  - state your Python version. STATE YOUR PYTHON VERSION like `#! python3`
+  - comment nicely
+  - make codes readable
