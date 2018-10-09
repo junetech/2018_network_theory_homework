@@ -117,3 +117,6 @@ Created in 9th(Tue) Oct. 2018 by JuneTech
 - Install `pylint`. It helps you to reduce your time by red underlines.
   Some green underline warnings may be negligible, but not always.
 - You may need to run your command line prompt with administrator mode(관리자 권한), depending on how you installed your Python.
+- You may use functions in the library(e.g. [networkx](https://networkx.github.io/documentation/stable/)).
+  - Functions like [neighbors](https://networkx.github.io/documentation/stable/reference/generated/networkx.classes.function.neighbors.html#networkx.classes.function.neighbors), [successors](https://networkx.github.io/documentation/stable/reference/classes/generated/networkx.DiGraph.successors.html#networkx.DiGraph.successors), and [predecessors](https://networkx.github.io/documentation/stable/reference/classes/generated/networkx.DiGraph.predecessors.html#networkx.DiGraph.predecessors) may help you.
+  - Think about honor code when you use [algorithm functions](https://networkx.github.io/documentation/stable/reference/algorithms/index.html). Contact TA in ambiguous situations.

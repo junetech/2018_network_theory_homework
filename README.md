@@ -2,7 +2,7 @@
 
 Open repository for Network Theory course in 2018, POSTECH IME.
 
-Contains:
+## Table of contents
 
-- Python beginners guide
-- Python code submission guide
+- [Python Guide for Complete Beginners](https://github.com/junetech/2018_network_theory_homework/blob/master/2018_Python_beginners_guide.md)
+- [Python Code Submission Guide](https://github.com/junetech/2018_network_theory_homework/blob/master/2018_Python_code_submission_guide.md)
