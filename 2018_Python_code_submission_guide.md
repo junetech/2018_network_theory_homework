@@ -1,6 +1,6 @@
 # Python Code Submission Guide
 
-Created in 9th(Tue) Oct. 2018 by JuneTech
+Created in 9th(Tue) Oct. 2018 by [JuneTech](mailto:hongjt3000@postech.ac.kr)
 
 ## Procedure
 
